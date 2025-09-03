@@ -1,2 +1,2 @@
 # OAI
-DAI (standing for Digital Auction Interface) is a web based online auction platform which has useful functions for the customers and lastly the auction master.
+OAI (standing for Online Auction Interface) is a web based online auction platform which has useful functions for the customers and lastly the auction master.
